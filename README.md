@@ -10,6 +10,9 @@ print("Hello world")
 - container store values.
 - ex- name = "megha"    (here name is the variable store the value megha)
 
+![alt text](<codesnap varibale in python.png>)
+
+
 # Identifier
 - name given to variables.
 
