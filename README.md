@@ -22,3 +22,21 @@ Rules to define Identifier.
 3. can not be a keyword.
 
 # Keywords
+- reserved words with specific meaning.
+- ex- True , False.
+
+# Comments
+- non executable lines of code.
+- make the code readable.
+
+# Datatypes
+- Three types - primitives , non-primitives , user-defined.
+- primitive(in-built) - int , string , float , None , Boolean.
+- non-primitives - List ,Tuple , Set , Dictionary.
+- user-defined - class and objects , functions.
+
+# input()  function
+- used to take input from users.
+- always return string
+
+
