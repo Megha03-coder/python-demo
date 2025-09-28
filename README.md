@@ -55,4 +55,9 @@ Rules to define Identifier.
 
 ![alt text](<methods of string.png>)
 
+# conditional Statements- control the flow of program.
+1. if - execute the statements when the condition is True.
+2. if-else - if True execute statments of if block , otherwise statements of else block.
+3. if-elif-else - when if comdition is False then elif-condition check , and when both of and elif are False , else block execute.
+
 
