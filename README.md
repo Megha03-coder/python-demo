@@ -39,4 +39,20 @@ Rules to define Identifier.
 - used to take input from users.
 - always return string
 
+# string
+- data type (sequence of character).
+- "megha" 'megha' """megha""".
+- every character get index (index help to access character).
+- slicing - accessing the part of string. ex- str[strating index:ending index].
+- ending index exluded.
+
+# functions of String
+1. str.endswith("") - return True if string ends with enclose string.
+2. str.capitalize()- make the first letter of the string capital.
+3. str.replace(old,new) - replace the old character by new one.
+4. str.find() - retuen the first index of first letter of word.
+5. str.count() -  counts the no. of times string comes.
+
+![alt text](<methods of string.png>)
+
 
