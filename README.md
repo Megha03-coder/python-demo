@@ -60,4 +60,14 @@ Rules to define Identifier.
 2. if-else - if True execute statments of if block , otherwise statements of else block.
 3. if-elif-else - when if comdition is False then elif-condition check , and when both of and elif are False , else block execute.
 
+# List - mutable data types 
+- syntax- list=[ 1, 2, "megha"]  (elements can be of different types.)
+# List Methods
+1. list.append() - add element at the end of the list.
+2. list.sort() - sort the list in ascending order.
+3. list.sort(reverse=True) - sort the list in descending orer.
+4. list.reverse() - reverse the list.
+5. list.insert(index,element) - insert the element at particular index.
+6. list.remove(element) - remove the first occurence of element.
+7. list.pop(index) - remove the element from particular index.
 
