@@ -71,3 +71,5 @@ Rules to define Identifier.
 6. list.remove(element) - remove the first occurence of element.
 7. list.pop(index) - remove the element from particular index.
 
+![alt text](<list and methods of list.png>)
+
