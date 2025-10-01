@@ -26,7 +26,7 @@ print(list)
 list.remove(1)      # remove the first occurence of element 1    [2,3,4,5,6]
 print(list)
 
-list.pop(6)           # delete the element from particular index  - list.pop(index)
+list.pop(4)           # delete the element from particular index  - list.pop(index)
 print(list)
 
 
