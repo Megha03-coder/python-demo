@@ -16,5 +16,5 @@ print(dic.items())      # return pairs in the tuple form
 
 print(dic.get(2))       # return the vlaue of specified key.
 
-print(dic.update({3:"hello"}))     # add key/value to the dictionary.
+dic.update({3:"hello"})     # add key/value to the dictionary.
 print(dic)
