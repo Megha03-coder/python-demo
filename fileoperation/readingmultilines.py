@@ -1,5 +1,5 @@
 
-#Reading a single line in python
+#Reading a multiple line in python
 import pandas as pd
 f=open("C:/Users/tarun/python-demo/fileoperation/customers-100.csv","r")
-print(f.readline()) 
+print(f.readlines()) 
